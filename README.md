@@ -20,7 +20,7 @@ I am continuously learning and eager to acquire new skills in the IT field. My g
 ## Get in Touch
 
 - 📧 Email: gunsnro@mail.ru
-- 💼 LinkedIn: [Anastasiia Nikitina](www.linkedin.com/in/anastasiia-nikitina-b5461a313)
+- 💼 LinkedIn: [Anastasiia Nikitina](https://www.linkedin.com/in/anastasiia-nikitina-b5461a313)
 - 📱 Telegram: [@nikitina_md](https://t.me/nikitina_md)
 
 ## Additional Information

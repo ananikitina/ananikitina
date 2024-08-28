@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hello there! 👋
 
 I'm a qualified doctor who has boldly transitioned into the world of programming. With a deep passion for modern technologies and a drive to solve complex problems, I've found a new path that allows me to leverage my knowledge and experience to create innovative IT solutions.
 

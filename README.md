@@ -7,11 +7,11 @@ I'm a qualified doctor who has boldly transitioned into the world of programming
 - 🩺 **Background:** Experienced doctor with years of practice.
 - 💻 **Career Shift:** Now actively pursuing a career in programming.
 - 🚀 **Skills:**
-  - Proficient in the basics of **Go**
+  - Proficient in the fundamentals of **Go**
   - Familiar with **Git** and **Docker**
   - Experience with database management
-  - Developing simple **REST APIs** and **gRPC** services
-  - Able to write tests for code
+  - Developing **REST APIs** and **gRPC** services
+  - Able to write unit and integration tests for code
 
 ## My Goals
 
